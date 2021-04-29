@@ -1,0 +1,33 @@
+.sear {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+
+   
+    width: 80%;
+  }
+  
+ 
+  
+  
+  
+  .inpt {
+    font-family: system-ui, Helvetica, Arial, sans-serif;
+    font-size: 20px !important;
+    width: 80%;
+   border-radius: 5px;
+    margin-top: 0;
+    margin-left: 150px;
+    background-color: black;
+    color: white;
+  }
+  
+ 
+  .star-rating{
+      color: yellow !important;
+      font-size: 50px !important;
+  }

@@ -1,0 +1,49 @@
+
+  .allfrm{background-color:  darkgrey;}
+
+  form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: darkgrey;
+  }
+  form input {
+    width: 98%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid darkgray;
+    color:black;
+    /*background-color:  gray;*/
+    padding-left: 0px;
+    margin-top: 0px;
+  }
+  form label {
+    margin-top: 20px;
+    color: white;
+  }
+  form input:focus {
+    outline: 0;
+  }
+  
+  /* modal Buttons */
+  .Modal-btn {
+    border-radius: 5px;
+    background-color: #5e5b5b;
+    border: transparent;
+    color: white;
+    padding: 8px 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 10px; 
+  }
+  .Modal-btn:hover {
+    background-color: rgba(12, 11, 11, 0.8);
+  }
+  .Modal-btn:focus {
+    outline: 0;
+  }
+  .addmovie-btn{
+    background-color: grey;
+    color: white;
+  }
+  

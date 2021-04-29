@@ -1,0 +1,43 @@
+
+
+.card-img-top{
+margin-left: 350px;
+border-color: yellow;
+border-style: groove;
+transform-origin: 75%;
+block-size: 500px;
+}
+.card-title{
+    
+
+align-items: center;
+    font-size: 20px;
+    color: white;
+    
+}
+.span-homedesc{
+    
+    margin-left: 300px;
+    border-style: double;
+    padding: 10px;
+    background-color: thistle;
+}
+.span-tr{
+    margin:0px;
+    border-style: double;
+    padding: 10px;
+    background-color: thistle;
+}
+.rate {
+    margin-left: 500px;
+    
+}
+.card-text{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    size: 1px;
+    margin:30px;
+}
+.card-title{
+    text-align: center;
+}
